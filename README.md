@@ -4,7 +4,7 @@
 ## Description
 Audiobook annotated pinyin audio data, with duration of 35 hours; 5 speakers are recorded including 3 males and 2 females; Chinese characters and pinyin are annotated, including the tone of pinyin; this data set can be used for automatic speech recognition, machine translation, and voiceprint recognition.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/243?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/243?source=Github
 
 
 ## Format
